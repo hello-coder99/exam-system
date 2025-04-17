@@ -1,0 +1,153 @@
+Q: What is the capital of India?    
+A) Durgapur   
+B) Mumbai    
+C) Delhi   
+D) Varanasi   
+A: C
+
+Q: What is the largest planet in our solar system?
+A) Earth
+B) Mars    
+C) Jupiter    
+D) Venus
+A: C
+
+Q: Who wrote the play 'Hamlet'?
+A) Charles Dickens  
+B) William Shakespeare             
+C) Jane Austen   
+D) Mark Twain
+A: B
+   
+Q: What is the chemical symbol for water?
+A) CO2   
+B) H2O    
+C) O2   
+D) NaCl    
+A: B     
+  
+Q: How many continents are there on Earth?
+A) 5
+B) 6   
+C) 7
+D) 8    
+A: C
+
+Q: What is the square root of 144?    
+A) 10
+B) 11   
+C) 12   
+D) 13   
+A: C
+
+Q: What is the currency of Japan?
+A) Yen
+B) Dollar
+C) Rupee    
+D) Euro
+A: A
+
+
+
+Q: Which is the longest river in the world?
+A) Amazon
+B) Nile
+C) Mississippi
+D) Yangtze
+A: B   
+
+
+
+Q: What is the chemical symbol for gold?
+A) Ag
+B) Au
+C) Fe   
+D) Pb
+A: B
+
+
+
+Q: Who was the first president of the United States?
+A) Abraham Lincoln   
+B) Thomas Jefferson
+C) George Washington
+D) John Adams    
+A: C
+
+Q: What is the capital of India?    
+A) Durgapur   
+B) Mumbai    
+C) Delhi   
+D) Varanasi   
+A: C
+
+Q: What is the largest planet in our solar system?
+A) Earth
+B) Mars    
+C) Jupiter    
+D) Venus
+A: C
+
+Q: Who wrote the play 'Hamlet'?
+A) Charles Dickens  
+B) William Shakespeare             
+C) Jane Austen   
+D) Mark Twain
+A: B
+   
+Q: What is the chemical symbol for water?
+A) CO2   
+B) H2O    
+C) O2   
+D) NaCl    
+A: B     
+  
+Q: How many continents are there on Earth?
+A) 5
+B) 6   
+C) 7
+D) 8    
+A: C
+
+Q: What is the square root of 144?    
+A) 10
+B) 11   
+C) 12   
+D) 13   
+A: C
+
+Q: What is the currency of Japan?
+A) Yen
+B) Dollar
+C) Rupee    
+D) Euro
+A: A
+
+
+
+Q: Which is the longest river in the world?
+A) Amazon
+B) Nile
+C) Mississippi
+D) Yangtze
+A: B   
+
+
+
+Q: What is the chemical symbol for gold?
+A) Ag
+B) Au
+C) Fe   
+D) Pb
+A: B
+
+
+
+Q: Who was the first president of the United States?
+A) Abraham Lincoln   
+B) Thomas Jefferson
+C) George Washington
+D) John Adams    
+A: C
+
+

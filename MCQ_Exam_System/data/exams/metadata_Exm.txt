@@ -1,0 +1,6 @@
+Exam Name: Exm
+Duration (minutes): 1
+Total Questions: 20
+Instructor: r
+Questions File: ../data/exams/questions_Exm.txt
+Answers File: ../data/exams/answers_Exm.txt
